@@ -1,0 +1,9 @@
+dataset,model,scoring_subset,n_cases,process_nrmse_pct,terminal_total_ratio_mape_pct
+Zhu2013,Proposed model,all,3,11.505976980384029,16.51214086426315
+Zhu2013,Direct power law,all,3,24.383545723303673,30.90063239445436
+Li2021,Proposed model,all,7,8.300601603860374,9.774560445135787
+Li2021,Direct power law,all,7,11.986604492126867,15.12194739643473
+Luo2020,Proposed model,all,5,43.039943398958926,60.61421916379222
+Luo2020,Proposed model,without_CA1_scoring_only,4,9.83240848405277,14.020718297973298
+Luo2020,Direct power law,all,5,68.41360809668664,102.59219467897233
+Luo2020,Direct power law,without_CA1_scoring_only,4,37.9634232976285,60.33680698145308

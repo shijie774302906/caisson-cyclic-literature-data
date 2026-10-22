@@ -1,0 +1,513 @@
+[
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-3",
+    "model": "Proposed model",
+    "held_out": "CV2-3",
+    "training": [
+      "CV2-4",
+      "CV2-5"
+    ],
+    "parameters": {
+      "alpha": 0.3199937673185206,
+      "c0": 8.708966377172903e-12,
+      "c1": 3.9371889874056825
+    }
+  },
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-3",
+    "model": "Direct power law",
+    "held_out": "CV2-3",
+    "training": [
+      "CV2-4",
+      "CV2-5"
+    ],
+    "parameters": {
+      "beta": 0.4089163795904622,
+      "b": 7.241878196839461
+    }
+  },
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-4",
+    "model": "Proposed model",
+    "held_out": "CV2-4",
+    "training": [
+      "CV2-3",
+      "CV2-5"
+    ],
+    "parameters": {
+      "alpha": 0.36867907321551785,
+      "c0": 8.000399322316402e-10,
+      "c1": 4.114478902452619
+    }
+  },
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-4",
+    "model": "Direct power law",
+    "held_out": "CV2-4",
+    "training": [
+      "CV2-3",
+      "CV2-5"
+    ],
+    "parameters": {
+      "beta": 0.4412872275090016,
+      "b": 5.376410139053838
+    }
+  },
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-5",
+    "model": "Proposed model",
+    "held_out": "CV2-5",
+    "training": [
+      "CV2-3",
+      "CV2-4"
+    ],
+    "parameters": {
+      "alpha": 0.3279638973393872,
+      "c0": 0.23212445970604362,
+      "c1": 3.2363831527465865
+    }
+  },
+  {
+    "dataset": "Zhu2013",
+    "case": "CV2-5",
+    "model": "Direct power law",
+    "held_out": "CV2-5",
+    "training": [
+      "CV2-3",
+      "CV2-4"
+    ],
+    "parameters": {
+      "beta": 0.41723776823971664,
+      "b": 5.10394235517903
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH2",
+    "model": "Proposed model",
+    "held_out": "I-CH2",
+    "training": [
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.14251167455903285,
+      "c0": 3.1022376491476855,
+      "c1": 0.34024967274163104
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH2",
+    "model": "Direct power law",
+    "held_out": "I-CH2",
+    "training": [
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.30613585683123135,
+      "b": 3.9920367016557217
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH3",
+    "model": "Proposed model",
+    "held_out": "I-CH3",
+    "training": [
+      "I-CH2",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.14115849965303254,
+      "c0": 3.17469977101424,
+      "c1": 0.32397668669571045
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH3",
+    "model": "Direct power law",
+    "held_out": "I-CH3",
+    "training": [
+      "I-CH2",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.2958602442901226,
+      "b": 3.8940932239137678
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH4",
+    "model": "Proposed model",
+    "held_out": "I-CH4",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.149762768508538,
+      "c0": 3.0636421744807,
+      "c1": 0.3506587513977737
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH4",
+    "model": "Direct power law",
+    "held_out": "I-CH4",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.30543164471482304,
+      "b": 3.715800709041954
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH5",
+    "model": "Proposed model",
+    "held_out": "I-CH5",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.13614195975674231,
+      "c0": 3.0884372148924597,
+      "c1": 0.36198637699064257
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "I-CH5",
+    "model": "Direct power law",
+    "held_out": "I-CH5",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "IO-CH2",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.298095823356502,
+      "b": 3.6656455820325258
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH2",
+    "model": "Proposed model",
+    "held_out": "IO-CH2",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.12398662721890713,
+      "c0": 2.958727979033308,
+      "c1": 0.3736084064281604
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH2",
+    "model": "Direct power law",
+    "held_out": "IO-CH2",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH3",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.29027651534693777,
+      "b": 3.704019251766029
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH3",
+    "model": "Proposed model",
+    "held_out": "IO-CH3",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "alpha": 0.1294888637844846,
+      "c0": 2.7455129332460233,
+      "c1": 0.41923069001081115
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH3",
+    "model": "Direct power law",
+    "held_out": "IO-CH3",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH4"
+    ],
+    "parameters": {
+      "beta": 0.2921136417167378,
+      "b": 3.610869629926026
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH4",
+    "model": "Proposed model",
+    "held_out": "IO-CH4",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3"
+    ],
+    "parameters": {
+      "alpha": 0.15408478908495196,
+      "c0": 3.214191563976966,
+      "c1": 0.274562527403818
+    }
+  },
+  {
+    "dataset": "Li2021",
+    "case": "IO-CH4",
+    "model": "Direct power law",
+    "held_out": "IO-CH4",
+    "training": [
+      "I-CH2",
+      "I-CH3",
+      "I-CH4",
+      "I-CH5",
+      "IO-CH2",
+      "IO-CH3"
+    ],
+    "parameters": {
+      "beta": 0.3027366758973929,
+      "b": 3.5959822251592595
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA1",
+    "model": "Proposed model",
+    "held_out": "CA1",
+    "training": [
+      "CA2",
+      "CA3",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "alpha": 0.2265385892830301,
+      "c0": 11.73612017271825,
+      "c1": 1.0899005998730475e-15
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA1",
+    "model": "Direct power law",
+    "held_out": "CA1",
+    "training": [
+      "CA2",
+      "CA3",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "beta": 0.2575006805194458,
+      "b": 12.60197352381443
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA2",
+    "model": "Proposed model",
+    "held_out": "CA2",
+    "training": [
+      "CA1",
+      "CA3",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "alpha": 0.2496268508297869,
+      "c0": 11.629155395943691,
+      "c1": 0.03203568539311118
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA2",
+    "model": "Direct power law",
+    "held_out": "CA2",
+    "training": [
+      "CA1",
+      "CA3",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "beta": 0.3162780142266523,
+      "b": 4.2030001671600425
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA3",
+    "model": "Proposed model",
+    "held_out": "CA3",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "alpha": 0.2526286628040347,
+      "c0": 9.768226391247053,
+      "c1": 0.6412139920753455
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA3",
+    "model": "Direct power law",
+    "held_out": "CA3",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA4",
+      "CA5"
+    ],
+    "parameters": {
+      "beta": 0.31870036875720775,
+      "b": 4.270824247903227
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA4",
+    "model": "Proposed model",
+    "held_out": "CA4",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA3",
+      "CA5"
+    ],
+    "parameters": {
+      "alpha": 0.26493950735749433,
+      "c0": 12.011694960248468,
+      "c1": 6.56496214219293e-11
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA4",
+    "model": "Direct power law",
+    "held_out": "CA4",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA3",
+      "CA5"
+    ],
+    "parameters": {
+      "beta": 0.3301890195199364,
+      "b": 4.199130733782115
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA5",
+    "model": "Proposed model",
+    "held_out": "CA5",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA3",
+      "CA4"
+    ],
+    "parameters": {
+      "alpha": 0.2644652640633884,
+      "c0": 11.488547357924372,
+      "c1": 2.494856963979349e-18
+    }
+  },
+  {
+    "dataset": "Luo2020",
+    "case": "CA5",
+    "model": "Direct power law",
+    "held_out": "CA5",
+    "training": [
+      "CA1",
+      "CA2",
+      "CA3",
+      "CA4"
+    ],
+    "parameters": {
+      "beta": 0.32805562588380793,
+      "b": 4.217922620958107
+    }
+  }
+]

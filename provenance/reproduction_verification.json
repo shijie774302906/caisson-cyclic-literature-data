@@ -1,0 +1,21 @@
+{
+  "cases": 15,
+  "folds": 30,
+  "observations_are_digitized_not_raw": true,
+  "all_folds_exclude_target": true,
+  "all_cases_retained": true,
+  "archived_point_max_difference": 1.7408297026122455e-13,
+  "maximum_metric_differences": {
+    "saved": {
+      "process_nrmse_pct": 3.950617610826157e-12,
+      "terminal_total_ratio_ape_pct": 5.343281372915953e-12,
+      "r_end_predicted": 1.687538997430238e-13
+    },
+    "refit": {
+      "process_nrmse_pct": 1.7149933118076888e-07,
+      "terminal_total_ratio_ape_pct": 5.086429446521379e-07,
+      "r_end_predicted": 4.099991812722692e-08
+    }
+  },
+  "passed": true
+}
